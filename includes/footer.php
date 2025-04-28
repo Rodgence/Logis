@@ -42,8 +42,8 @@
         <h4>Contact Us</h4>
         <div class="tanzania-office">
           <h5><i class="bi bi-geo-alt"></i> Tanzania Headquarters</h5>
-          <p>Plot No.638/57, Samora Avenue</p>
-          <p>P.O.BOX 78737, DAR ES SALAAM, TANZANIA</p>
+          <a href="https://maps.app.goo.gl/fHXvJiP8kxypSAnx7" target="_blank"><p>Plot No.638/57, Samora Avenue</p>
+          <p>P.O.BOX 78737, DAR ES SALAAM, TANZANIA</p></a>
           <p class="mt-2">
             <strong>Phone:</strong> <a href="tel:+255782902862">+255 782 902 862</a><br>
             <strong>WhatsApp:</strong> <a href="https://wa.me/255762756562">+255 762 756 562</a><br>

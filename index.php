@@ -171,7 +171,7 @@ include 'includes/header.php';
         and efficient logistics solutions that cater to the complex needs of businesses in today's interconnected
         world.
       </p>
-      <a href="about.php" class="btn btn-primary">Learn More</a>
+      <a href="about.php" class="btn btn-primary">Read More</a>
     </div>
 
   </div>
