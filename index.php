@@ -288,10 +288,10 @@ include 'includes/header.php';
                 </div>
               </div>
               
-              <div class="cta-container mt-4">
+              <!-- <div class="cta-container mt-4">
                 <a href="get-a-quote.html" class="btn btn-primary">Request Transport Quote</a>
                 <a href="contact.html" class="btn btn-outline">Discuss Your Logistics Needs</a>
-              </div>
+              </div> -->
             </div>
           </div>
         </div>
@@ -349,7 +349,7 @@ include 'includes/header.php';
       
       @keyframes pulse {
         0% {
-          box-shadow: 0 0 0 0 rgba(13, 66, 255, 0.7);
+          box-shadow: 0 0 0 0 rgba(13, 65, 255, 0);
         }
         70% {
           box-shadow: 0 0 0 10px rgba(13, 66, 255, 0);
@@ -612,7 +612,7 @@ include 'includes/header.php';
 
 
     <!-- Call To Action Section -->
-    <section id="call-to-action" class="call-to-action section dark-background">
+    <section id="call-to-action" class="call-to-action section dark-background mb-5">
 
       <img src="assets/img/cta-bg.jpg" alt="">
 
@@ -623,8 +623,8 @@ include 'includes/header.php';
               <h3>Ready to Streamline Your Tanzania Logistics?</h3>
               <p>Whether you're moving cargo from Dar es Salaam port to landlocked countries, transporting agricultural products from rural areas, or need specialized pharmaceutical logistics solutions, Gian Logistics Limited has the local expertise and regional network to deliver success. Contact us today for a customized solution tailored to your East African logistics needs.</p>
               <div class="cta-buttons">
-                <a class="cta-btn primary" href="get-a-quote.html">Request a Quote</a>
-                <a class="cta-btn secondary" href="contact.html">Schedule Consultation</a>
+                <a class="cta-btn primary" href="get-a-quote.php">Request a Quote</a>
+                <a class="cta-btn secondary" href="contact.php">Schedule Consultation</a>
               </div>
             </div>
           </div>
@@ -667,7 +667,7 @@ include 'includes/header.php';
       }
       
       .cta-btn.primary:hover {
-        background-color: #0033cc;
+        background-color:rgba(255, 255, 255, 0);
         transform: translateY(-3px);
         box-shadow: 0 8px 15px rgba(0,0,0,0.2);
       }

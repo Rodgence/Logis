@@ -50,10 +50,7 @@
             <strong>Email:</strong> <a href="mailto:info@gianlogistics.com">info@gianlogistics.com</a>
           </p>
         </div>
-
-      </div>
-
-      <div class="certifications mt-4 ">
+        <div class="certifications mt-4 ">
         <h5><i class="bi bi-patch-check"></i> Certifications</h5>
         <div class="certification-badges">
           <span class="badge text-light">TAFFA</span>
@@ -61,9 +58,13 @@
           <span class="badge text-light">CUSTOMS AGENTS LICENSE</span>
           <span class="badge text-light">BRELA</span>
           <span class="badge text-light">TRA</span>
-          <span class="badge text-light">TBS</span>
+          <span class="badge text-light">JCTRANS</span>
+          <span class="badge text-light">DF ALLIANCE</span>
         </div>
       </div>
+      </div>
+
+      
 
 
     </div>
@@ -71,7 +72,7 @@
   </div>
 
   <div class="container copyright text-center mt-4">
-    <p>© <span>Copyright</span> <strong class="px-1 sitename">Gian Logistics</strong> <span>All Rights Reserved</span>
+    <p>© <span>2025 Copyright</span> <strong class="px-1 sitename">Gian Logistics</strong> <span>All Rights Reserved</span>
     </p>
     <div class="credits">
     </div>
