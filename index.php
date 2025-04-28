@@ -162,14 +162,7 @@ include 'includes/header.php';
     <div class="col-lg-6 content order-last  order-lg-first" data-aos="fade-up" data-aos-delay="100">
       <h3>Welcome to Gian Logistics Company Limited</h3>
       <p>
-        Gian Logistics Limited is private company formed in 2024, based in Tanzania, specializing in
-        comprehensive solutions for logistics, offering the following services, clearing and forwarding,
-        and cargo consolidation and deconsolidation freight services, import and export services, door to door
-        services,
-        transportation services, Based in Africa and beyond boarder, we specialize in providing innovative,
-        reliable,
-        and efficient logistics solutions that cater to the complex needs of businesses in today's interconnected
-        world.
+      GIAN LOGISTICS LTD is a private company based in Tanzania, Africa and beyond boarder specializing in providing innovative, reliable, and efficient logistics solutions, offering the following services, clearing and forwarding, and cargo consolidation and deconsolidation freight services, import and export services, door to door services, transportation services that cater to the complex needs of businesses in today’s interconnected world. 
       </p>
       <a href="about.php" class="btn btn-primary">Read More</a>
     </div>

@@ -6,7 +6,7 @@
         <a href="index.html" class="logo d-flex align-items-center">
           <span class="sitename">Gian Logistics</span>
         </a>
-        <p>Specializing in East African logistics solutions with a focus on Tanzania's strategic location as a gateway to landlocked neighboring countries. Our expertise in customs clearance, cross-border transportation, and specialized cargo handling enables seamless movement of goods throughout the region.</p>
+        <p>GIAN LOGISTICS LTD is a private company based in Tanzania, Africa and beyond border specializing in providing innovative, reliable, and efficient logistics solutions, offering the following services, clearing and forwarding, and cargo consolidation and deconsolidation freight services, import and export services, door to door services, transportation services that cater to the complex needs of businesses in today’s interconnected world.</p>
         <div class="social-links d-flex mt-4">
           <a href=""><i class="bi bi-twitter-x"></i></a>
           <a href="https://www.facebook.com/61574817136631/posts/122107969838827237/?substory_index=551382900889658&app=fbl "><i class="bi bi-facebook"></i></a>
