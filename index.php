@@ -32,38 +32,38 @@ include 'includes/header.php';
           <div class="swiper-wrapper">
             <div class="swiper-slide">
               <img src="HOME PAGE SLIDE PICTURE- CLEARING AND FORWARDING.jpg" alt="Clearing and Forwarding" class="hero-bg">
-              <div class="slide-content">
+              <!-- <div class="slide-content">
                 <h2>CLEARING AND FORWARDING</h2>
                 <p>Expert customs clearance and freight forwarding services</p>
-              </div>
+              </div> -->
             </div>
             <div class="swiper-slide">
               <img src="assets/img/HOME - CARGO CONSOLIDATION  SLIDE.jpg" alt="Cargo Consolidation" class="hero-bg">
-              <div class="slide-content">
+              <!-- <div class="slide-content">
                 <h2>CARGO CONSOLIDATION AND DECONSOLIDATION</h2>
                 <p>Efficient cargo handling solutions for your logistics needs</p>
-              </div>
+              </div> -->
             </div>
             <div class="swiper-slide">
               <img src="assets/img/HOME SLIDE- FREIGHT AND TRANSPORTATION.jpg" alt="Freight and Transportation" class="hero-bg">
-              <div class="slide-content">
+              <!-- <div class="slide-content">
                 <h2>FREIGHT AND TRANSPORTATION</h2>
                 <p>Reliable and cost-effective freight transport solutions</p>
-              </div>
+              </div> -->
             </div>
             <div class="swiper-slide">
               <img src="assets/img/HOME PAGE SLIDE -DOR TO DOOR SERVICES.jpg" alt="Door to Door Services" class="hero-bg">
-              <div class="slide-content">
+              <!-- <div class="slide-content">
                 <h2>DOOR TO DOOR SERVICES</h2>
                 <p>Seamless delivery from origin to destination</p>
-              </div>
+              </div> -->
             </div>
             <div class="swiper-slide">
               <img src="assets/img/PHARMATETICUAL  HOME PAGE SLIDE.jpg" alt="Pharmaceutical Shipments" class="hero-bg">
-              <div class="slide-content">
+              <!-- <div class="slide-content">
                 <h2>PHARMACEUTICAL SHIPMENTS</h2>
                 <p>Specialized handling for sensitive pharmaceutical cargo</p>
-              </div>
+              </div> -->
             </div>
           </div>
           <div class="hero-slider-pagination swiper-pagination"></div>
