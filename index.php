@@ -79,7 +79,7 @@ include 'includes/header.php';
         <div class="container">
           <div class="company-details">
             <h1 class="company-name" data-aos="fade-up">
-              Gian <span class="highlight">Logistics</span> Limited
+              Gian Logistics</span> Limited
             </h1>
             <p class="company-slogan" data-aos="fade-up" data-aos-delay="100">
               "Seamless Logistics Solutions"
@@ -93,11 +93,52 @@ include 'includes/header.php';
       </div>
     </section>
     
+ <!-- About Section -->
+ <section id="about" class="about section">
+
+<div class="container">
+
+  <div class="row gy-4">
+
+    <div class="col-lg-6 position-relative align-self-start order-lg-last order-first" data-aos="fade-up"
+      data-aos-delay="200">
+      <img src="aa5.jpg" class="img-fluid mt-5" alt=""  style="width: 500px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: 0.3s;">
+      <!-- <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8" class="glightbox pulsating-play-btn"></a> -->
+    </div>
+
+    <div class="col-lg-6 content order-last  order-lg-first" data-aos="fade-up" data-aos-delay="100">
+      <h3>Welcome to Gian Logistics Company Limited</h3>
+      <p>
+        Gian Logistics Limited is private company formed in 2024, based in Tanzania, specializing in
+        comprehensive solutions for logistics, offering the following services, clearing and forwarding,
+        and cargo consolidation and deconsolidation freight services, import and export services, door to door
+        services,
+        transportation services, Based in Africa and beyond boarder, we specialize in providing innovative,
+        reliable,
+        and efficient logistics solutions that cater to the complex needs of businesses in today's interconnected
+        world.
+      </p>
+      <p>
+        Our comprehensive range of services is designed to support the seamless movement of goods across borders,
+        connecting businesses to global markets with precision and care. Whether it's managing intricate supply
+        chains,
+        navigating customs regulations, or delivering time-sensitive shipments, Gian Logistics Limited combines
+        deep industry
+        expertise with cutting-edge technology to ensure that your logistics challenges are met with success.
+      </p>
+
+    </div>
+
+  </div>
+
+</div>
+
+</section><!-- /About Section -->
 
     <!-- Featured Services Section -->
     <section id="featured-services" class="featured-services section">
       <div class="container">
-        <div class="section-header text-center mb-5" data-aos="fade-up">
+        <div class="section-header text-center" data-aos="fade-up">
           <h2>Our Services</h2>
           <p>Comprehensive logistics solutions tailored to your needs</p>
         </div>
@@ -146,132 +187,7 @@ include 'includes/header.php';
     </section><!-- /Featured Services Section -->
 
     <!-- Tanzania Logistics Advantages Section -->
-    <section id="tanzania-logistics" class="section">
-      <div class="container">
-        <div class="section-header text-center mb-5" data-aos="fade-up">
-          <h2>Tanzania Logistics Advantage</h2>
-          <p>Strategic gateway connecting East and Central Africa with global markets</p>
-        </div>
-
-        <div class="row g-4 mb-5">
-          <div class="col-lg-6" data-aos="fade-up">
-            <div class="tanzania-map-container">
-              <img src="assets/img/world-dotted-map.png" alt="Tanzania Strategic Location" class="img-fluid">
-              <div class="map-overlay">
-                <div class="map-point" style="top: 42%; left: 45%;" data-bs-toggle="tooltip" title="Dar es Salaam Port">
-                  <span class="point"></span>
-                  <span class="label">Dar es Salaam</span>
-                </div>
-                <div class="map-point" style="top: 32%; left: 25%;" data-bs-toggle="tooltip" title="Serves DRC, Zambia">
-                  <span class="point"></span>
-                  <span class="label">Central Corridor</span>
-                </div>
-                <div class="map-point" style="top: 25%; left: 55%;" data-bs-toggle="tooltip" title="Serves Uganda, Rwanda">
-                  <span class="point"></span>
-                  <span class="label">Northern Corridor</span>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-            <div class="strategic-advantages">
-              <h3>Strategic Location</h3>
-              <p>Tanzania serves as a critical gateway for landlocked countries including Zambia, DRC, Rwanda, Burundi, Uganda, and Malawi, offering the shortest and most cost-effective route to international markets.</p>
-              
-              <div class="advantages-stats">
-                <div class="advantage-item">
-                  <i class="bi bi-geo-alt"></i>
-                  <div>
-                    <h4>Gateway to 6+ Countries</h4>
-                    <p>Connecting landlocked nations to global markets</p>
-                  </div>
-                </div>
-                <div class="advantage-item">
-                  <i class="bi bi-globe"></i>
-                  <div>
-                    <h4>7.8% GDP Contribution</h4>
-                    <p>Transport sector's significant economic impact</p>
-                  </div>
-                </div>
-                <div class="advantage-item">
-                  <i class="bi bi-currency-dollar"></i>
-                  <div>
-                    <h4>$2.6+ Billion</h4>
-                    <p>Foreign currency earnings from transport</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="row g-4 logistics-solutions">
-          <div class="col-12 text-center mb-4" data-aos="fade-up">
-            <h3>Specialized Solutions for Regional Challenges</h3>
-          </div>
-
-          <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="100">
-            <div class="solution-card">
-              <div class="solution-icon">
-                <i class="fa-solid fa-truck-container"></i>
-              </div>
-              <h4>Cross-Border Transport</h4>
-              <p>Streamlined cross-border operations with expedited customs processing and documentation to minimize delays at border crossings.</p>
-              <ul class="solution-features">
-                <li><i class="bi bi-check-circle"></i> Faster border clearance</li>
-                <li><i class="bi bi-check-circle"></i> Documentation expertise</li>
-                <li><i class="bi bi-check-circle"></i> Regional network coverage</li>
-              </ul>
-            </div>
-          </div>
-
-          <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="200">
-            <div class="solution-card">
-              <div class="solution-icon">
-                <i class="fa-solid fa-ship"></i>
-              </div>
-              <h4>Port Logistics</h4>
-              <p>Efficient cargo handling at Dar es Salaam port with expedited processing and strategic partnerships to reduce congestion challenges.</p>
-              <ul class="solution-features">
-                <li><i class="bi bi-check-circle"></i> Priority port handling</li>
-                <li><i class="bi bi-check-circle"></i> Container management</li>
-                <li><i class="bi bi-check-circle"></i> Reduced dwell time</li>
-              </ul>
-            </div>
-          </div>
-
-          <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="300">
-            <div class="solution-card">
-              <div class="solution-icon">
-                <i class="fa-solid fa-road"></i>
-              </div>
-              <h4>Rural Access Solutions</h4>
-              <p>Specialized transportation solutions for accessing remote agricultural and mining areas with custom fleet options for challenging terrain.</p>
-              <ul class="solution-features">
-                <li><i class="bi bi-check-circle"></i> All-terrain vehicles</li>
-                <li><i class="bi bi-check-circle"></i> Last-mile delivery</li>
-                <li><i class="bi bi-check-circle"></i> Seasonal planning</li>
-              </ul>
-            </div>
-          </div>
-
-          <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="400">
-            <div class="solution-card">
-              <div class="solution-icon">
-                <i class="fa-solid fa-temperature-low"></i>
-              </div>
-              <h4>Cold Chain Logistics</h4>
-              <p>Temperature-controlled storage and transportation solutions for Tanzania's growing agricultural exports and pharmaceutical sector.</p>
-              <ul class="solution-features">
-                <li><i class="bi bi-check-circle"></i> Monitored temperature</li>
-                <li><i class="bi bi-check-circle"></i> Export compliance</li>
-                <li><i class="bi bi-check-circle"></i> Pharmaceutical handling</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section><!-- /Tanzania Logistics Advantages Section -->
+   
 
     <!-- Service Coverage Map Section -->
     <section id="service-coverage" class="section light-background">
@@ -700,47 +616,7 @@ include 'includes/header.php';
       }
     </style>
 
-    <!-- About Section -->
-    <section id="about" class="about section">
-
-      <div class="container">
-
-        <div class="row gy-4">
-
-          <div class="col-lg-6 position-relative align-self-start order-lg-last order-first" data-aos="fade-up"
-            data-aos-delay="200">
-            <img src="aa5.jpg" class="img-fluid mt-5" alt=""  style="width: 500px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: 0.3s;">
-            <!-- <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8" class="glightbox pulsating-play-btn"></a> -->
-          </div>
-
-          <div class="col-lg-6 content order-last  order-lg-first" data-aos="fade-up" data-aos-delay="100">
-            <h3>Welcome to Gian Logistics Company Limited</h3>
-            <p>
-              Gian Logistics Limited is private company formed in 2024, based in Tanzania, specializing in
-              comprehensive solutions for logistics, offering the following services, clearing and forwarding,
-              and cargo consolidation and deconsolidation freight services, import and export services, door to door
-              services,
-              transportation services, Based in Africa and beyond boarder, we specialize in providing innovative,
-              reliable,
-              and efficient logistics solutions that cater to the complex needs of businesses in today's interconnected
-              world.
-            </p>
-            <p>
-              Our comprehensive range of services is designed to support the seamless movement of goods across borders,
-              connecting businesses to global markets with precision and care. Whether it's managing intricate supply
-              chains,
-              navigating customs regulations, or delivering time-sensitive shipments, Gian Logistics Limited combines
-              deep industry
-              expertise with cutting-edge technology to ensure that your logistics challenges are met with success.
-            </p>
-
-          </div>
-
-        </div>
-
-      </div>
-
-    </section><!-- /About Section -->
+   
 
 
     <!-- Call To Action Section -->
@@ -818,269 +694,7 @@ include 'includes/header.php';
       }
     </style>
 
-    <!-- Pharmaceutical Logistics Section -->
-    <section id="pharma-logistics" class="section">
-      <div class="container">
-        <div class="row g-5 align-items-center">
-          <div class="col-lg-6" data-aos="fade-right">
-            <div class="pharma-content">
-              <div class="section-header mb-4">
-                <h2>Specialized Pharmaceutical Logistics</h2>
-                <p>Temperature-controlled solutions for Tanzania's healthcare sector</p>
-              </div>
-              
-              <p class="lead">Tanzania's pharmaceutical sector requires specialized logistics expertise to maintain product integrity through the supply chain.</p>
-              
-              <div class="pharma-features mt-4">
-                <div class="feature-item">
-                  <div class="feature-icon">
-                    <i class="bi bi-thermometer-half"></i>
-                  </div>
-                  <div class="feature-content">
-                    <h4>Temperature Monitoring</h4>
-                    <p>Real-time GPS and temperature tracking systems ensuring medication integrity throughout transport</p>
-                  </div>
-                </div>
-                
-                <div class="feature-item">
-                  <div class="feature-icon">
-                    <i class="bi bi-box-seam"></i>
-                  </div>
-                  <div class="feature-content">
-                    <h4>Cold Chain Compliance</h4>
-                    <p>Meeting local and international compliance standards for pharmaceutical transportation</p>
-                  </div>
-                </div>
-                
-                <div class="feature-item">
-                  <div class="feature-icon">
-                    <i class="bi bi-truck"></i>
-                  </div>
-                  <div class="feature-content">
-                    <h4>Specialized Vehicles</h4>
-                    <p>Purpose-built refrigerated vehicles designed for East African road conditions</p>
-                  </div>
-                </div>
-                
-                <div class="feature-item">
-                  <div class="feature-icon">
-                    <i class="bi bi-buildings"></i>
-                  </div>
-                  <div class="feature-content">
-                    <h4>Cold Storage Warehousing</h4>
-                    <p>Temperature-controlled facilities in strategic locations across Tanzania</p>
-                  </div>
-                </div>
-              </div>
-              
-              <div class="pharma-cta mt-4">
-                <a href="pharmaceuticalShipments.html" class="btn-primary">Learn More</a>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-6" data-aos="fade-left">
-            <div class="pharma-image-container">
-              <img src="assets/img/PHARMATETICUAL  HOME PAGE SLIDE.jpg" alt="Pharmaceutical Logistics" class="img-fluid main-image">
-              <div class="image-grid">
-                <img src="assets/img/PHARMATHETICAL BACKGROUND.jpg" alt="Pharmaceutical Storage" class="img-fluid grid-image">
-                <img src="assets/img/PHARMATHETICAL-PACKAGES.jpeg.jpg" alt="Pharmaceutical Packaging" class="img-fluid grid-image">
-                <img src="assets/img/PHARMATETCAL - PACKAGES.jpeg.jpg" alt="Temperature Control" class="img-fluid grid-image">
-                <img src="assets/img/PHARMATETICA - TEMPERATURE PICTURE.jpeg.jpg" alt="Cold Chain" class="img-fluid grid-image">
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section><!-- /Pharmaceutical Logistics Section -->
-
-    <style>
-      /* Pharmaceutical Logistics Styles */
-      #pharma-logistics {
-        padding: 80px 0;
-        background-color: #f8f9fa;
-      }
-      
-      .pharma-content {
-        height: 100%;
-      }
-      
-      .pharma-features {
-        margin-top: 2rem;
-      }
-      
-      .feature-item {
-        display: flex;
-        align-items: flex-start;
-        margin-bottom: 1.5rem;
-        background: white;
-        padding: 1.2rem;
-        border-radius: 10px;
-        box-shadow: 0 5px 15px rgba(0,0,0,0.05);
-        transition: all 0.3s ease;
-      }
-      
-      .feature-item:hover {
-        transform: translateY(-5px);
-        box-shadow: 0 10px 25px rgba(0,0,0,0.1);
-      }
-      
-      .feature-icon {
-        min-width: 50px;
-        height: 50px;
-        border-radius: 50%;
-        background-color: rgba(13, 66, 255, 0.1);
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        margin-right: 1rem;
-      }
-      
-      .feature-icon i {
-        font-size: 1.5rem;
-        color: var(--accent-color);
-      }
-      
-      .feature-content h4 {
-        font-size: 1.1rem;
-        font-weight: 700;
-        margin-bottom: 5px;
-        color: var(--heading-color);
-      }
-      
-      .feature-content p {
-        margin: 0;
-        font-size: 0.9rem;
-        color: var(--default-color);
-        opacity: 0.8;
-      }
-      
-      .pharma-image-container {
-        position: relative;
-      }
-      
-      .main-image {
-        width: 100%;
-        border-radius: 10px;
-        box-shadow: 0 10px 30px rgba(0,0,0,0.15);
-        margin-bottom: 1rem;
-      }
-      
-      .image-grid {
-        display: grid;
-        grid-template-columns: repeat(4, 1fr);
-        gap: 10px;
-      }
-      
-      .grid-image {
-        border-radius: 8px;
-        height: 80px;
-        width: 100%;
-        object-fit: cover;
-        transition: all 0.3s ease;
-        box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-      }
-      
-      .grid-image:hover {
-        transform: scale(1.05);
-      }
-      
-      @media (max-width: 991px) {
-        .pharma-image-container {
-          margin-top: 2rem;
-        }
-      }
-      
-      @media (max-width: 767px) {
-        .image-grid {
-          grid-template-columns: repeat(2, 1fr);
-        }
-        
-        .grid-image {
-          height: 120px;
-        }
-      }
-    </style>
-
-    <!-- Features Section -->
-    <section id="features" class="features section">
-
-     
-
-      <div class="container">
-        <div class="row gy-4 align-items-center features-item">
-          <div class="col-md-5 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="100">
-            <img src="assets/img/HOME - CORE VALUE -PICTURE.jpg" class="img-fluid" alt=""  
-            style="width: 500px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: 0.3s;">
-          </div>
-          <div class="col-md-7" data-aos="fade-up" data-aos-delay="100">
-            <h3>Core Values of Gian Logistics Limited.</h3>
-            <ul class="list-unstyled">
-              <li class="d-flex mb-3">
-                <i class="bi bi-check me-2"></i>
-                <div>
-                  <span class="fw-semibold">Customer-Centricity:</span>
-                  <span>We prioritize our clients' needs and work relentlessly to provide
-                    exceptional service that exceeds expectations, ensuring their success and satisfaction.</span>
-                </div>
-              </li>
-              <li class="d-flex mb-3">
-                <i class="bi bi-check me-2"></i>
-                <div>
-                  <span class="fw-semibold">Innovation:</span>
-                  <span>We embrace cutting-edge technology and creative solutions to
-                    continuously improve our services and stay ahead in the logistics industry.</span>
-                </div>
-              </li>
-              <li class="d-flex mb-3">
-                <i class="bi bi-check me-2"></i>
-                <div>
-                  <span class="fw-semibold">Reliability:</span>
-                  <span>We are committed to delivering on our promises with integrity and
-                    consistency, ensuring that every shipment is managed with the highest level of
-                    professionalism.</span>
-                </div>
-              </li>
-              <li class="d-flex mb-3">
-                <i class="bi bi-check me-2"></i>
-                <div>
-                  <span class="fw-semibold">Excellence:</span>
-                  <span>We strive for excellence in every aspect of our operations, from
-                    customer service to logistical execution, aiming to set the highest standards in the
-                    industry.</span>
-                </div>
-              </li>
-              <li class="d-flex mb-3">
-                <i class="bi bi-check me-2"></i>
-                <div>
-                  <span class="fw-semibold">Sustainability:</span>
-                  <span>We are dedicated to promoting environmentally responsible practices and
-                    fostering sustainable solutions that contribute positively to the communities we serve.</span>
-                </div>
-              </li>
-              <li class="d-flex mb-3">
-                <i class="bi bi-check me-2"></i>
-                <div>
-                  <span class="fw-semibold">Collaboration:</span>
-                  <span>We believe in the power of teamwork and partnership, both within our
-                    organization and with our clients, to achieve common goals and drive mutual success.</span>
-                </div>
-              </li>
-              <li class="d-flex mb-3">
-                <i class="bi bi-check me-2"></i>
-                <div>
-                  <span class="fw-semibold">Transparency:</span>
-                  <span>We uphold transparency in all our dealings, ensuring clear communication
-                    and building trust with our clients, partners, and stakeholders.</span>
-                </div>
-              </li>
-            </ul>
-          </div>
-        </div><!-- Features Item -->
-
-      </div>
-
-    </section><!-- /Features Section -->
-
+   
 
     <!-- Testimonials Section -->
     <section id="testimonials" class="testimonials section dark-background">
