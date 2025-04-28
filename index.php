@@ -85,8 +85,8 @@ include 'includes/header.php';
               "Seamless Logistics Solutions"
             </p>
             <div class="hero-cta" data-aos="fade-up" data-aos-delay="200">
-              <a href="get-a-quote.html" class="btn-primary">Get a Quote</a>
-              <a href="about.html" class="btn-secondary">Learn More</a>
+              <a href="get-a-quote.php" class="btn-primary">Get a Quote</a>
+              <a href="about.php" class="btn-secondary">Learn More</a>
             </div>
           </div>
         </div>
