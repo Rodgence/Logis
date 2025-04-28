@@ -501,7 +501,7 @@
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>
     
-      <a class="btn-getstarted" href="get-a-quote.php">Get a Quote</a>
+      <a class="btn-getstarted" href="GIAN COMPANY PROFILE.pdf" download="GIAN COMPANY PROFILE.pdf">View Company Profile</a>
     </div>
   </header>
   
