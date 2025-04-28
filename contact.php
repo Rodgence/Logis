@@ -22,7 +22,7 @@ include 'includes/header.php';
       <div class="container" data-aos="fade-up" data-aos-delay="100">
 
         <div class="mb-4" data-aos="fade-up" data-aos-delay="200">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1980.7996019855555!2d39.2840322!3d-6.8185037!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x185c4b059757f223%3A0xa6ad054569b5b7f6!2s57JP%2BGGC%20Shia%20Dawoodi%20Bohora%20Mosque%2C%20Dar%20es%20Salaam!5e0!3m2!1sen!2stz!4v1745846025945!5m2!1sen!2stz" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1980.7996019855555!2d39.2840322!3d-6.8185037!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x185c4b059757f223%3A0xa6ad054569b5b7f6!2s57JP%2BGGC%20Shia%20Dawoodi%20Bohora%20Mosque%2C%20Dar%20es%20Salaam!5e0!3m2!1sen!2stz!4v1745846025945!5m2!1sen!2stz" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div><!-- End Google Maps -->
 
         <div class="row gy-4">
