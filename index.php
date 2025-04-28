@@ -93,26 +93,7 @@ include 'includes/header.php';
       </div>
     </section>
     
- <!-- About Section -->
- <section id="about" class="about section">
 
-<div class="container">
-
-  <div class="row gy-4">
-
-    <div class="col-lg-6 position-relative align-self-start order-lg-last order-first" data-aos="fade-up"
-      data-aos-delay="200">
-      <img src="aa5.jpg" class="img-fluid" alt=""  style="width: 500px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: 0.3s;">
-      <!-- <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8" class="glightbox pulsating-play-btn"></a> -->
-    </div>
-
-   
-
-  </div>
-
-</div>
-
-</section><!-- /About Section -->
 
     <!-- Featured Services Section -->
     <section id="featured-services" class="featured-services section">
@@ -165,7 +146,20 @@ include 'includes/header.php';
       </div>
     </section><!-- /Featured Services Section -->
 
-    < <div class="col-lg-6 content order-last  order-lg-first" data-aos="fade-up" data-aos-delay="100">
+    <!-- About Section -->
+ <section id="about" class="about section">
+
+<div class="container">
+
+  <div class="row gy-4">
+
+    <div class="col-lg-6 position-relative align-self-start order-lg-last order-first" data-aos="fade-up"
+      data-aos-delay="200">
+      <img src="aa5.jpg" class="img-fluid" alt=""  style="width: 500px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: 0.3s;">
+      <!-- <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8" class="glightbox pulsating-play-btn"></a> -->
+    </div>
+
+    <div class="col-lg-6 content order-last  order-lg-first" data-aos="fade-up" data-aos-delay="100">
       <h3>Welcome to Gian Logistics Company Limited</h3>
       <p>
         Gian Logistics Limited is private company formed in 2024, based in Tanzania, specializing in
@@ -186,7 +180,13 @@ include 'includes/header.php';
         expertise with cutting-edge technology to ensure that your logistics challenges are met with success.
       </p>
 
-    </div>!-- Tanzania Logistics Advantages Section -->
+    </div>
+
+  </div>
+
+</div>
+
+</section><!-- /About Section -->
    
 
     <!-- Service Coverage Map Section -->
