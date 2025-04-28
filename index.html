@@ -448,6 +448,17 @@
         font-size: 1rem;
       }
     }
+
+    .hero-bg{
+      width: 20px;
+      height: auto;
+    }
+    
+    .logo img {
+      max-width: 350px;
+      height: auto;
+      display: block;
+    }
   </style>
 
   <!-- =======================================================
@@ -465,7 +476,7 @@
     <div class="container-fluid container-xl position-relative d-flex align-items-center">
     
       <a href="index.html" class="logo d-flex align-items-center me-auto">
-        <img src="gian.png" alt="Logo" class="img">
+        <img src="assets/img/gian.png" alt="Gian Logistics Logo" class="img">
       </a>
     
       <nav id="navmenu" class="navmenu">
@@ -1744,8 +1755,11 @@
         image-rendering: crisp-edges;
       }
       .logo img {
-        width: 350px; /* Adjust the size of the logo */
+        max-width: 100%;
         height: auto;
+        width: 200px;
+        display: block;
+        object-fit: contain;
       }
       .hero-bg{
         width: 20px;
@@ -1830,30 +1844,22 @@
               <strong>Email:</strong> <a href="mailto:info@gianlogistics.com">info@gianlogistics.com</a>
             </p>
           </div>
-          
-          <div class="regional-offices mt-4">
-            <h5><i class="bi bi-buildings"></i> Regional Support</h5>
-            <div class="d-flex justify-content-between flex-wrap">
-              <div class="regional-office">
-                <p><strong>Zambia Office</strong><br>
-                Lusaka, Zambia</p>
-              </div>
-              <div class="regional-office">
-                <p><strong>DRC Office</strong><br>
-                Lubumbashi, DRC</p>
-              </div>
-            </div>
+        
           </div>
           
-          <div class="certifications mt-4">
+          <div class="certifications mt-4 ">
             <h5><i class="bi bi-patch-check"></i> Certifications</h5>
             <div class="certification-badges">
-              <span class="badge">TFDA Approved</span>
-              <span class="badge">ISO 9001:2015</span>
-              <span class="badge">TBS Certified</span>
-              <span class="badge">EAC Registered</span>
+              <span class="badge text-light">TAFFA</span>
+              <span class="badge text-light">TASAC</span>
+              <span class="badge text-light">CUSTOMS AGENTS LICENSE</span>
+              <span class="badge text-light">BRELA</span>
+              <span class="badge text-light">TRA</span>
+              <span class="badge text-light">TBS</span>
             </div>
           </div>
+
+          
         </div>
       </div>
     </div>
