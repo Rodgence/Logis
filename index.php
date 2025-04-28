@@ -171,15 +171,7 @@ include 'includes/header.php';
         and efficient logistics solutions that cater to the complex needs of businesses in today's interconnected
         world.
       </p>
-      <p>
-        Our comprehensive range of services is designed to support the seamless movement of goods across borders,
-        connecting businesses to global markets with precision and care. Whether it's managing intricate supply
-        chains,
-        navigating customs regulations, or delivering time-sensitive shipments, Gian Logistics Limited combines
-        deep industry
-        expertise with cutting-edge technology to ensure that your logistics challenges are met with success.
-      </p>
-
+      <a href="about.php" class="btn btn-primary">Learn More</a>
     </div>
 
   </div>
