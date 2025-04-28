@@ -102,7 +102,7 @@ include 'includes/header.php';
 
     <div class="col-lg-6 position-relative align-self-start order-lg-last order-first" data-aos="fade-up"
       data-aos-delay="200">
-      <img src="aa5.jpg" class="img-fluid mt-5" alt=""  style="width: 500px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: 0.3s;">
+      <img src="aa5.jpg" class="img-fluid" alt=""  style="width: 500px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: 0.3s;">
       <!-- <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8" class="glightbox pulsating-play-btn"></a> -->
     </div>
 
