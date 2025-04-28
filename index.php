@@ -106,28 +106,7 @@ include 'includes/header.php';
       <!-- <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8" class="glightbox pulsating-play-btn"></a> -->
     </div>
 
-    <div class="col-lg-6 content order-last  order-lg-first" data-aos="fade-up" data-aos-delay="100">
-      <h3>Welcome to Gian Logistics Company Limited</h3>
-      <p>
-        Gian Logistics Limited is private company formed in 2024, based in Tanzania, specializing in
-        comprehensive solutions for logistics, offering the following services, clearing and forwarding,
-        and cargo consolidation and deconsolidation freight services, import and export services, door to door
-        services,
-        transportation services, Based in Africa and beyond boarder, we specialize in providing innovative,
-        reliable,
-        and efficient logistics solutions that cater to the complex needs of businesses in today's interconnected
-        world.
-      </p>
-      <p>
-        Our comprehensive range of services is designed to support the seamless movement of goods across borders,
-        connecting businesses to global markets with precision and care. Whether it's managing intricate supply
-        chains,
-        navigating customs regulations, or delivering time-sensitive shipments, Gian Logistics Limited combines
-        deep industry
-        expertise with cutting-edge technology to ensure that your logistics challenges are met with success.
-      </p>
-
-    </div>
+   
 
   </div>
 
@@ -186,7 +165,28 @@ include 'includes/header.php';
       </div>
     </section><!-- /Featured Services Section -->
 
-    <!-- Tanzania Logistics Advantages Section -->
+    < <div class="col-lg-6 content order-last  order-lg-first" data-aos="fade-up" data-aos-delay="100">
+      <h3>Welcome to Gian Logistics Company Limited</h3>
+      <p>
+        Gian Logistics Limited is private company formed in 2024, based in Tanzania, specializing in
+        comprehensive solutions for logistics, offering the following services, clearing and forwarding,
+        and cargo consolidation and deconsolidation freight services, import and export services, door to door
+        services,
+        transportation services, Based in Africa and beyond boarder, we specialize in providing innovative,
+        reliable,
+        and efficient logistics solutions that cater to the complex needs of businesses in today's interconnected
+        world.
+      </p>
+      <p>
+        Our comprehensive range of services is designed to support the seamless movement of goods across borders,
+        connecting businesses to global markets with precision and care. Whether it's managing intricate supply
+        chains,
+        navigating customs regulations, or delivering time-sensitive shipments, Gian Logistics Limited combines
+        deep industry
+        expertise with cutting-edge technology to ensure that your logistics challenges are met with success.
+      </p>
+
+    </div>!-- Tanzania Logistics Advantages Section -->
    
 
     <!-- Service Coverage Map Section -->
