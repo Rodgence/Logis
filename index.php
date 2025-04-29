@@ -604,27 +604,82 @@ include 'includes/header.php';
    
 
 
-    <!-- Call To Action Section -->
-    <section id="call-to-action" class="call-to-action section dark-background mb-5">
-
-      <img src="assets/img/cta-bg.jpg" alt="">
-
-      <div class="container">
-        <div class="row justify-content-center" data-aos="zoom-in" data-aos-delay="100">
-          <div class="col-xl-10">
-            <div class="text-center">
-              <h3>Ready to Streamline Your Tanzania Logistics?</h3>
-              <p>Whether you're moving cargo from Dar es Salaam port to landlocked countries, transporting agricultural products from rural areas, or need specialized pharmaceutical logistics solutions, Gian Logistics Limited has the local expertise and regional network to deliver success. Contact us today for a customized solution tailored to your East African logistics needs.</p>
-              <div class="cta-buttons">
-                <a class="cta-btn primary" href="get-a-quote.php">Request a Quote</a>
-                <a class="cta-btn secondary" href="contact.php">Schedule Consultation</a>
-              </div>
-            </div>
+    <!-- Features Section -->
+    <section id="features" class="features section">
+    <div class="container">
+        <div class="row gy-4 align-items-center features-item">
+          <div class="col-md-5 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="100">
+            <img src="assets/img/HOME - CORE VALUE -PICTURE.jpg" class="img-fluid" alt=""  
+            style="width: 500px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: 0.3s;">
           </div>
-        </div>
+          <div class="col-md-7" data-aos="fade-up" data-aos-delay="100">
+            <h3>Core Values of Gian Logistics Limited.</h3>
+            <ul class="list-unstyled">
+              <li class="d-flex mb-3">
+                <i class="bi bi-check me-2"></i>
+                <div>
+                  <span class="fw-semibold">Customer-Centricity:</span>
+                  <span>We prioritize our clients' needs and work relentlessly to provide
+                    exceptional service that exceeds expectations, ensuring their success and satisfaction.</span>
+                </div>
+              </li>
+              <li class="d-flex mb-3">
+                <i class="bi bi-check me-2"></i>
+                <div>
+                  <span class="fw-semibold">Innovation:</span>
+                  <span>We embrace cutting-edge technology and creative solutions to
+                    continuously improve our services and stay ahead in the logistics industry.</span>
+                </div>
+              </li>
+              <li class="d-flex mb-3">
+                <i class="bi bi-check me-2"></i>
+                <div>
+                  <span class="fw-semibold">Reliability:</span>
+                  <span>We are committed to delivering on our promises with integrity and
+                    consistency, ensuring that every shipment is managed with the highest level of
+                    professionalism.</span>
+                </div>
+              </li>
+              <li class="d-flex mb-3">
+                <i class="bi bi-check me-2"></i>
+                <div>
+                  <span class="fw-semibold">Excellence:</span>
+                  <span>We strive for excellence in every aspect of our operations, from
+                    customer service to logistical execution, aiming to set the highest standards in the
+                    industry.</span>
+                </div>
+              </li>
+              <li class="d-flex mb-3">
+                <i class="bi bi-check me-2"></i>
+                <div>
+                  <span class="fw-semibold">Sustainability:</span>
+                  <span>We are dedicated to promoting environmentally responsible practices and
+                    fostering sustainable solutions that contribute positively to the communities we serve.</span>
+                </div>
+              </li>
+              <li class="d-flex mb-3">
+                <i class="bi bi-check me-2"></i>
+                <div>
+                  <span class="fw-semibold">Collaboration:</span>
+                  <span>We believe in the power of teamwork and partnership, both within our
+                    organization and with our clients, to achieve common goals and drive mutual success.</span>
+                </div>
+              </li>
+              <li class="d-flex mb-3">
+                <i class="bi bi-check me-2"></i>
+                <div>
+                  <span class="fw-semibold">Transparency:</span>
+                  <span>We uphold transparency in all our dealings, ensuring clear communication
+                    and building trust with our clients, partners, and stakeholders.</span>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div><!-- Features Item -->
+
       </div>
 
-    </section><!-- /Call To Action Section -->
+    </section><!-- /Features Section -->
 
     <style>
       .cta-buttons {
