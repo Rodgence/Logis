@@ -615,14 +615,14 @@ include 'includes/header.php';
           <div class="col-md-7" data-aos="fade-up" data-aos-delay="100">
             <h3>Core Values of Gian Logistics Limited.</h3>
             <ul class="list-unstyled">
-              <li class="d-flex mb-3">
+              <!-- <li class="d-flex mb-3">
                 <i class="bi bi-check me-2"></i>
                 <div>
                   <span class="fw-semibold">Customer-Centricity:</span>
                   <span>We prioritize our clients' needs and work relentlessly to provide
                     exceptional service that exceeds expectations, ensuring their success and satisfaction.</span>
                 </div>
-              </li>
+              </li> -->
               <li class="d-flex mb-3">
                 <i class="bi bi-check me-2"></i>
                 <div>
@@ -657,7 +657,7 @@ include 'includes/header.php';
                     fostering sustainable solutions that contribute positively to the communities we serve.</span>
                 </div>
               </li>
-              <li class="d-flex mb-3">
+              <!-- <li class="d-flex mb-3">
                 <i class="bi bi-check me-2"></i>
                 <div>
                   <span class="fw-semibold">Collaboration:</span>
@@ -672,7 +672,7 @@ include 'includes/header.php';
                   <span>We uphold transparency in all our dealings, ensuring clear communication
                     and building trust with our clients, partners, and stakeholders.</span>
                 </div>
-              </li>
+              </li> -->
             </ul>
           </div>
         </div><!-- Features Item -->
