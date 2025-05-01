@@ -6,7 +6,7 @@
     <div class="page-title dark-background" data-aos="fade" style="background-image: url(assets/img/page-title-bg.jpg);">
       <div class="container position-relative">
         <h1>Get a Quote</h1>
-        <p>Esse dolorum voluptatum ullam est sint nemo et est ipsa porro placeat quibusdam quia assumenda numquam molestias.</p>
+        
         <nav class="breadcrumbs">
           <ol>
             <li><a href="index.html">Home</a></li>
@@ -28,7 +28,7 @@
           <div class="col-lg-7" data-aos="fade-up" data-aos-delay="200">
             <form action="send_email.php" method="post" class="php-email-form">
               <h3>Get a quote</h3>
-              <p>Vel nobis odio laboriosam et hic voluptatem. Inventore vitae totam. Rerum repellendus enim linead sero park flows.</p>
+              
 
               <div class="row gy-4">
 

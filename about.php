@@ -65,7 +65,7 @@ include 'includes/header.php';
     <div class="container">
       <div class="row align-items-center">
         <div class="col-lg-6" data-aos="fade-up">
-          <span>Our Team<br></span>
+          
           <h2>Our Team</h2>
           <p>Gian logistics is dedicated to optimizing supply chain operations and ensuring the timely delivery of goods. our logistics management
             team consists of experienced professionals in roles such us logistics managers, transportation coordinators, and costomer service representatives
