@@ -45,15 +45,15 @@
                             </div>
                             <ul class="list-unstyled benefits-list">
                                 <li class="d-flex mb-2">
-                                    <i class="bi bi-check-circle-fill text-primary me-2"></i>
+                                    <i class="bi bi-check-circle-fill text-dark me-2"></i>
                                     <span>Cost-effective shipping solutions</span>
                                 </li>
                                 <li class="d-flex mb-2">
-                                    <i class="bi bi-check-circle-fill text-primary me-2"></i>
+                                    <i class="bi bi-check-circle-fill text-dark me-2"></i>
                                     <span>Optimized container space utilization</span>
                                 </li>
                                 <li class="d-flex mb-2">
-                                    <i class="bi bi-check-circle-fill text-primary me-2"></i>
+                                    <i class="bi bi-check-circle-fill text-dark me-2"></i>
                                     <span>Reduced handling and paperwork</span>
                                 </li>
                             </ul>
@@ -91,15 +91,15 @@
                             </div>
                             <ul class="list-unstyled benefits-list">
                                 <li class="d-flex mb-2">
-                                    <i class="bi bi-check-circle-fill text-primary me-2"></i>
+                                    <i class="bi bi-check-circle-fill text-dark me-2"></i>
                                     <span>Precise sorting and distribution</span>
                                 </li>
                                 <li class="d-flex mb-2">
-                                    <i class="bi bi-check-circle-fill text-primary me-2"></i>
+                                    <i class="bi bi-check-circle-fill text-dark me-2"></i>
                                     <span>Timely final mile delivery</span>
                                 </li>
                                 <li class="d-flex mb-2">
-                                    <i class="bi bi-check-circle-fill text-primary me-2"></i>
+                                    <i class="bi bi-check-circle-fill text-dark me-2"></i>
                                     <span>Customized unpacking services</span>
                                 </li>
                             </ul>
