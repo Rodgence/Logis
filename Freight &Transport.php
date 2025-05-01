@@ -10,7 +10,7 @@
             <p>Our freight services encompass a range of transportation solutions to accommodate various types of cargo and shipping requirements. We specialize in providing tailored solutions that optimize your supply chain and enhance your logistics operations.</p>
             <nav class="breadcrumbs">
                 <ol>
-                    <li><a href="index.html">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li class="current">freight & Transport </li>
                 </ol>
             </nav>
@@ -34,7 +34,7 @@
                             </div>
                             <div class="col-md-6 order-md-1 d-flex align-items-center">
                                 <div class="card-body p-4 p-md-5">
-                                    <h3 class="card-title fs-2 fw-bold mb-3">AIR FREIGHT</h3>
+                                    <h3 class="card-title fs-2 fw-bold mb-3 text-primary">AIR FREIGHT</h3>
                                     <p class="card-text fs-5">Our air freight services provide fast and reliable transportation across global routes. We handle everything from booking and documentation to customs clearance and final delivery,ensuring your cargo reaches its destination quickly and safely.</p>
                                     <div class="mt-4">
                                         <span class="badge bg-light text-dark me-2 mb-2 px-3 py-2">Express Delivery</span>
@@ -57,7 +57,7 @@
                             </div>
                             <div class="col-md-6 order-md-1 d-flex align-items-center">
                                 <div class="card-body p-4 p-md-5">
-                                    <h3 class="card-title fs-2 fw-bold mb-3">SEA FREIGHT</h3>
+                                    <h3 class="card-title fs-2 fw-bold mb-3 text-primary">SEA FREIGHT</h3>
                                     <p class="card-text fs-5">For cost-effective and large-volume shipments, our sea freight services offer flexible and economical solutions. We manage the entire process, including booking, containerization (FLC & LCL) and port handling, to ensure efficient movement of goods via ocean transport
 
                                     </p>
@@ -82,7 +82,7 @@
                             </div>
                             <div class="col-md-6 d-flex align-items-center">
                                 <div class="card-body p-4 p-md-5">
-                                    <h3 class="card-title fs-2 fw-bold mb-3">ROAD FREIGHT</h3>
+                                    <h3 class="card-title fs-2 fw-bold mb-3 text-primary">ROAD FREIGHT</h3>
                                     <p class="card-text fs-5">Our road freight services cater to both domestic and cross-border shipments, providing timely and reliable transportation by truck. We handle route planning, load optimization, and real-time tracking to ensure smooth delivery to your final destination</p>
                                     <div class="mt-4">
                                         <span class="badge bg-light text-dark me-2 mb-2 px-3 py-2">Flexible Delivery</span>
@@ -105,7 +105,7 @@
                             </div>
                             <div class="col-md-6 order-md-1 d-flex align-items-center">
                                 <div class="card-body p-4 p-md-5">
-                                    <h3 class="card-title fs-2 fw-bold mb-3">RAIL FREIGHT</h3>
+                                    <h3 class="card-title fs-2 fw-bold mb-3 text-primary">RAIL FREIGHT</h3>
                                     <p class="card-text fs-5">Combining the benefits of cost efficiency and environmental sustainability, our rail freight services are perfect for bulk shipments and long-distance transportation.</p>
                                     <div class="mt-4">
                                         <span class="badge bg-light text-dark me-2 mb-2 px-3 py-2">Eco-Friendly</span>
